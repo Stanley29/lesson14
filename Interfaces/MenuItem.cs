@@ -38,6 +38,7 @@ namespace Interfaces
         //        foreach (var n in node.Children) nodes.Push(n);
         //    }
         //}
+        //it would be better to avoid the commented code. In case the commented code still necessary - provide enough comments with explanations why this commented code is necessary here
     }
 }
 
